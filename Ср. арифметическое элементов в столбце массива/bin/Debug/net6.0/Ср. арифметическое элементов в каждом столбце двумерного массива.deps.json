@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ср. арифметическое элементов в каждом столбце двумерного массива/1.0.0": {
+        "runtime": {
+          "Ср. арифметическое элементов в каждом столбце двумерного массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ср. арифметическое элементов в каждом столбце двумерного массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
